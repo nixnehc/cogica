@@ -1,6 +1,6 @@
 
 
-- $FO^2_\mathcal{C}$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
+- $FO^2_C$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
 
 
 
@@ -29,7 +29,7 @@
 
 - Inline `$...$`: $\varphi \to \psi$
 - Inline `\\(...\\)`: \\(\Sigma \Vdash \varphi\\)
-- Inline + display style `$\displaystyle ....$`:  $\displaystyle \bigcup_{i \in I} E_i$
+- Inline + display style `$\displaystyle ....$`:  $\displaystyle \bigcup_{i \in I} E_i$.
 
 When $a \ne 0$, there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$.

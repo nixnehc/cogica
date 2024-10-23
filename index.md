@@ -1,6 +1,6 @@
 
 
-- $FO^2_\mathcal{C}$, the two-variable fragment of FOL with cunting quantifiers, is NExPTime--complete.
+- $FO^2_\mathcal{C}$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
 
 
 

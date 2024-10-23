@@ -3,6 +3,9 @@
 - $FO^2_C$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
 
 
+🤪[术语翻译](en-zh) 
+
+
 
 
 

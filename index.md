@@ -4,10 +4,10 @@ title: Cogica
 `临时性的笔记和一些乱七八糟的东西....`
 
 - 🤪[术语翻译](post/en-zh) 
-- [符号收集者](post/symbol)
-- [gossip](post/gossip)
+- [符号收集者](post/symbol) 
+- [gossip](post/gossip) 
 
-
+---
 
 
 
@@ -70,8 +70,8 @@ schema 是一集结构类似的公式，而 sub 是对公式中的变元做统�
 - 语义方面的概念可以涉及到无穷的情况（如传递自反闭包），而语法层面的东西就不能包含无穷。(2021-06-14)
 
 - 
-- *Predicate abstracts* built by means of the lambda operator were introduced to studies on FOML by [Thomason, R. and R. Stalnaker, Modality and reference, Nous 2 (1968), pp. 359–372] and then the technique was developed by [Fitting, M., Modal logic should say more than it does, 1991].
--
+- `Predicate abstracts` built by means of the lambda operator were introduced to studies on FOML by [Thomason, R. and R. Stalnaker, Modality and reference, Nous 2 (1968), pp. 359–372] and then the technique was developed by [Fitting, M., Modal logic should say more than it does, 1991].  
+- 
 - the Henkin-Scott-Makinson method of maximally consistent (MC) theories
 - 
 - Lewis constructed five axiomatic systems : S1-S5, actually, S5 was introduced before Lewis by H. McColl (1906).
@@ -83,7 +83,7 @@ schema 是一集结构类似的公式，而 sub 是对公式中的变元做统�
 - $FO^2_C$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
 
 
-
+--- 
 「插值性」的证明方法大致有：
 1. purely syntactic
     - constructive
@@ -95,21 +95,19 @@ schema 是一集结构类似的公式，而 sub 是对公式中的变元做统�
     - sometimes constructive
     - sequent / tableau systems
 
+--- 
 
-<details><summary>[Papadimitriou_1994]</summary>
-
+<details>
+<summary>[Papadimitriou_1994]</summary>
 Ch. 1
 
-- An *algorithm* is a detailed step-by-step method for solving a problem.
-
-- the precise representation of a problem does not matter much
-
-- p.8: Decision problem v.s. Optimization problem
-
+- An *algorithm* is a detailed step-by-step method for solving a problem. 
+- the precise representation of a problem does not matter much. 
+- p.8: Decision problem v.s. Optimization problem. 
 - A *reduction* is an algorithm that solves problem $A$ by transforming any instance of $A$ to an equivalent instance of a previously solved problem $B$.
 A central tool of complexity theory is a perverse use of reduction, 
 in which a problem is reduced not to an already-solved one, 
-but to a problem that we wish to show is *difficult*.
+but to a problem that we wish to show is *difficult*. 
 
 
 - History mark:
@@ -131,6 +129,7 @@ Ch. 3
 - RE: the recursively enumerable ones.
 - coRE: the complements of recursively enumerable languages.
 - R: the recursive languages.
+
 </details>
 
 
@@ -146,9 +145,7 @@ Ch. 3
 
 
 ---
-算是方法论吧
-
-### 
+### 算是方法论吧
 
 1. 证明过的东西就不用再证一遍了，说明下即可。
 
@@ -167,7 +164,6 @@ Ch. 3
 
 
 
----
 ---
 ## Testing
 

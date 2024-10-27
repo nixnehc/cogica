@@ -6,10 +6,16 @@ title: Cogica
 - 🤪[术语翻译](post/en-zh) 
 - [符号收集者](post/symbol) 
 - [gossip](post/gossip) 
+- [Some slogans & open problems](post/slogans-problems)
 
+🐕 🐈
+
+- Notes  
+  1. [燃烧理性火焰](note/燃烧理性火焰)
+  2. [MLOpenMind](note/MLOpenMind)
 ---
 
-
+- https://grossack.site/2021/12/05/ultraproducts-howto.html
 
 - The most straightforward way to provide referentiality in a modal logic is to `hybridize` this logic, that is to extend the language with, for example, the following symbols: 
     - $\mathsf{NOM}$: a countable set of nominals different than PROP;

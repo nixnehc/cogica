@@ -5,23 +5,34 @@ title: Cogica
 
 - 🤪[术语翻译](post/en-zh) 
 - [符号收集者](post/symbol) 
-- [gossip](post/gossip) 
-- [Some slogans & open problems](post/slogans-problems)
+- [gossip](post/gossip "一些学术八卦") 
+- [some slogans & open problems](post/slogans-problems)
 
 🐕 🐈
 
-- Notes  
-  1. [燃烧理性火焰](note/燃烧理性火焰)
-  2. [MLOpenMind](note/MLOpenMind)
+## Some Notes  
+
+1. [燃烧理性火焰](note/燃烧理性火焰)   
+2. [Modal Logic for Open Mind](note/MLOpenMind)  
+3. [Papadimitriou_1994]()
+
+---
 ---
 
-- https://grossack.site/2021/12/05/ultraproducts-howto.html
+
+
+- Ultrapowers: [https://grossack.site/2021/12/05/ultraproducts-howto.html](https://grossack.site/2021/12/05/ultraproducts-howto.html "一个关于「超幂」的博文，里面的梗图很搞笑")
 
 - The most straightforward way to provide referentiality in a modal logic is to `hybridize` this logic, that is to extend the language with, for example, the following symbols: 
     - $\mathsf{NOM}$: a countable set of nominals different than PROP;
     -  $\{@_i \mid i \in NOM\}$:  a set of satisfaction operators indexed with nominals.
 
+
+
+
 ---
+
+
 
 不可判定的模态逻辑 -->  可判定片段：
 1. to limit the number of modal operators in the language.
@@ -45,8 +56,10 @@ title: Cogica
 2. semantic tableaux ==> completeness + termination
 
 3. Translation: 
-    1. all basic modal formulas can be translated into $FO^2$, the two-variable fragment of $FOL$, which is decidable shown in the 1970s. 
+    all basic modal formulas can be translated into $FO^2$, the two-variable fragment of $FOL$, which is decidable shown in the 1970s. 
     But note that $FO^n \; (n \geq 3)$ is undecidable.
+
+
 ---
 
 以下摘抄自：Cresswell《模态逻辑中的框架和模型⋅<Algebra and Logic (1975)>》（康宏逵译）：  
@@ -151,7 +164,7 @@ Ch. 3
 
 
 ---
-### 算是方法论吧
+## 算是方法论吧
 
 1. 证明过的东西就不用再证一遍了，说明下即可。
 

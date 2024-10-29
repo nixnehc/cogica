@@ -20,6 +20,8 @@ title: Cogica
 ---
 
 
+- on finite sets `measures = distributions`.
+- 
 
 - Ultrapowers: [https://grossack.site/2021/12/05/ultraproducts-howto.html](https://grossack.site/2021/12/05/ultraproducts-howto.html "一个关于「超幂」的博文，里面的梗图很搞笑")
 

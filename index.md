@@ -10,7 +10,7 @@ title: Cogica
 
 🐕 🐈
 
-## Some Notes  
+## Some Notes
 
 1. [燃烧理性火焰](note/燃烧理性火焰)   
 2. [Modal Logic for Open Mind](note/MLOpenMind)  
@@ -20,6 +20,8 @@ title: Cogica
 ---
 
 
+-  **Model theory** = *Algebraic geometry* $-$ *fields*
+- 
 - on finite sets `measures = distributions`.
 - 
 

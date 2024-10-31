@@ -17,18 +17,14 @@ title: Cogica
 2. [Modal Logic for Open Mind](note/MLOpenMind)  
 3. [Papadimitriou_1994](note/Papadimitriou_1994)
 
----
+
 ---
 
 
 - **Monte-Carlo simulation** has a long history, and has been applied to a variety of computationally difficult problems including inference in *Bayesian Networks*, *reinforcement learning*  and *computer game playing*.
 - 
-
-
-- 
 - on finite sets, `measures = distributions`.
 - 
-
 - **Ultrapowers**: [https://grossack.site/2021/12/05/ultraproducts-howto.html](https://grossack.site/2021/12/05/ultraproducts-howto.html "一个关于「超幂」的博文，里面的梗图很搞笑")
 
 - The most straightforward way to provide referentiality in a modal logic is to `hybridize` this logic, that is to extend the language with, for example, the following symbols: 
@@ -169,7 +165,7 @@ Use `\\[...\\]` (separate line)
 \\]
 
 
----
+
 ## Appendix
 
 - [Converted from Markdown file](test1)

@@ -3,6 +3,18 @@ title: logical symbols
 ---
 ## 符号收集者 
 
+
+
+
+
+
+- $AF \;|\hspace{-1ex}\sim^c_\sigma a$ : credulously accepted
+- $AF \;|\hspace{-1ex}\sim^s_\sigma a$ : skeptically accepted
+- $AF \;|\hspace{-1ex}\sim^\circ_\sigma a$  where $\circ \in \{s,c\}$
+
+
+
+emptyset:
 - `\varnothing`: $\varnothing$
 
 

@@ -6,6 +6,8 @@ title: Some Slogans
 
 ---
 
+- Bayes as lenses.
+
 
 ## Formal Argumentation
 

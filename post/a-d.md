@@ -2,7 +2,7 @@
 title: Acknowledgment & Dedication
 ---
 
-# Acknowledgment & Dedication
+# Acknowledgment & Dedication 🌲
 
 这个页面收藏一些我看文献时所见到的「致谢」和「献词」。
 愿终有一天我也可作如此语句致予所爱之人。
@@ -10,7 +10,11 @@ title: Acknowledgment & Dedication
 (last update: 2023/12/10)
 
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=938579677&bvid=BV1kT4y1r72F&cid=584965224&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<center>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=938579677&bvid=BV1kT4y1r72F&cid=584965224&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="320"></iframe>
+<br>
+Always on my mind
+</center>
 
 ---
 

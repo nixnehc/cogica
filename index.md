@@ -3,12 +3,12 @@ title: Cogica
 ---
 这里是一些临时性的笔记和乱七八糟的东西....
 
-- [术语翻译](post/en-zh "信达雅") 🧐
-- [符号收集者](post/symbol) 🤩
-- [Gossip](post/gossip "一些学术八卦") 🤪
-- [Some Slogans](post/slogans) 🥳
-- [Open Problems](post/open-problems) 🤔
-- [Acknowledgement & Dedication](post/a-d.md)
+- 🧐 [术语翻译](post/en-zh "信达雅") 
+- 🤩 [符号收集者](post/symbol) 
+- 🤪 [Gossip](post/gossip "一些学术八卦") 
+- 🥳 [Some Slogans](post/slogans) 
+- 🤔 [Open Problems](post/open-problems) 
+- 🌲 [Acknowledgement & Dedication](post/a-d.md) 
 
 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
 

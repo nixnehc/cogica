@@ -10,11 +10,7 @@ title: Acknowledgment & Dedication
 (last update: 2023/12/10)
 
 
-<center>
-<video width="320" height="240" controls>
-  <source src="//player.bilibili.com/player.html?isOutside=true&aid=938579677&bvid=BV1kT4y1r72F&cid=584965224&p=1" type="video/mp4">
-</video>
-</center>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=938579677&bvid=BV1kT4y1r72F&cid=584965224&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
@@ -23,21 +19,21 @@ title: Acknowledgment & Dedication
 
 ---
 D.M Gabbay et. al., *Many-Dimensional Modal Logics*, 2003
-> With love and gratitude to our parents 
+> With love and gratitude to our parents   
 > this book is dedicated.
 
 
 
 ---
 Christos H. Papadimitriou, *Computational Complexity*, 1994
-> To Victoria Papadimitriou (1910-1992) for the complexity that she gave me
+> To Victoria Papadimitriou (1910-1992) for the complexity that she gave me.
 
 
 
 ---
 J. M. Dunn and G. M. Hardegree, *Algebraic Methods in Philosophical Logic*, 2001
-> Dedicated to our loved, and loving spouses, 
->  Sally Dunn and Kate Dorfman,
+> Dedicated to our loved, and loving spouses,  
+>  Sally Dunn and Kate Dorfman,  
 > who have been with us even longer than this book. 
 
 
@@ -45,7 +41,7 @@ J. M. Dunn and G. M. Hardegree, *Algebraic Methods in Philosophical Logic*, 2001
 
 ---
 Herbert B. Enderton, *Elements of Set Theory*, 1977
-> To my teachers with gratitude,
+> To my teachers with gratitude,  
 > To my students with hope.
 
 
@@ -59,5 +55,5 @@ Herbert B. Enderton, *Elements of Set Theory*, 1977
 
 ---
 Mitch Albom, *The time keeper*,
-> This book, about time, is dedicated to Janine,
+> This book, about time, is dedicated to Janine,  
 > who makes every minute of life worthwhile.

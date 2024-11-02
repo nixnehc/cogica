@@ -5,10 +5,11 @@ title: Cogica
 
 - [术语翻译](post/en-zh "信达雅") 🧐
 - [符号收集者](post/symbol) 🤩
-- [gossip](post/gossip "一些学术八卦") 🤪
-- [some slogans](post/slogans) 🥳
-- [open problems](post/open-problems) 🤔
+- [Gossip](post/gossip "一些学术八卦") 🤪
+- [Some Slogans](post/slogans) 🥳
+- [Open Problems](post/open-problems) 🤔
 - [Acknowledgement & Dedication](post/a-d.md)
+
 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
 
 ## Some Notes

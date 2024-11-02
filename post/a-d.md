@@ -11,8 +11,6 @@ title: Acknowledgment & Dedication
 
 
 
-Here's some regular text.
-
 <p style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=773484458&bvid=BV1P14y1a7Mx&cid=845337063&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <br>

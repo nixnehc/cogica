@@ -6,10 +6,7 @@ title: Acknowledgment & Dedication
 
 这个页面收藏一些我看文献时所见到的「致谢」和「献词」。
 愿终有一天我也可作如此语句致予所爱之人。
-
 (last update: 2023/12/10)
-
-
 
 <p style="text-align: center;">
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=773484458&bvid=BV1P14y1a7Mx&cid=845337063&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

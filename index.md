@@ -8,7 +8,7 @@ title: Cogica
 - 🤪 [Gossip](post/gossip "一些学术八卦") 
 - 🥳 [Some Slogans](post/slogans) 
 - 🤔 [Open Problems](post/open-problems) 
-- 🌲 [Acknowledgement & Dedication](post/a-d.md) 
+- 🌲 [Acknowledgement & Dedication](post/ack.md) 
 
 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
 

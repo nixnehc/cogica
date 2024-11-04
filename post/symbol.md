@@ -8,9 +8,9 @@ title: logical symbols
 
 
 
-- $AF \;|\hspace{-1ex}\sim^c_\sigma a$ : credulously accepted
-- $AF \;|\hspace{-1ex}\sim^s_\sigma a$ : skeptically accepted
-- $AF \;|\hspace{-1ex}\sim^\circ_\sigma a$  where $\circ \in \{s,c\}$
+- $AF  \vrule\sim^c_\sigma a$ : credulously accepted
+- $AF  \vrule\sim^s_\sigma a$ : skeptically accepted
+- $AF  \vrule\sim^\circ_\sigma a$  where $\circ \in \{s,c\}$
 
 
 
@@ -31,7 +31,7 @@ Propositional Logic:
 ---
 
 - $\mathsf{dom}(f)$: the domain of function $f$
-- $\Delta(\varphi):=\{\sigma\in\{0,1\}^{\mathsf{Prop}} \mid \sigma\models \varphi\}$: the set of valuations of truth values that satisfy $\varphi$
+- $\Delta(\varphi):=\{ \sigma\in \{0,1\}^{\mathsf{Prop}} \mid \sigma\models \varphi \}$: the set of valuations of truth values that satisfy $\varphi$
 - $A \subseteq_{\mathsf{finite}} B$: $A$ is a finite subset of $B$
 
 - $con(\varphi)$: the number of connectives in $\varphi$.
@@ -41,8 +41,8 @@ Propositional Logic:
 
 
 modal operations in algebra semantics:
-- $l_R (X)$, $\bar{\Box}(X)$, $\hat{\Box}(X)$, $[\cdot](X)$, $c(X)$, $[X]$
-- $m_R (X)$, $\bar{\Diamond}(X)$, $\hat{\diamond}(X)$, $<\cdot>(X)$, $r(X)$, $<X>$
+- $l_R (X)$, $\bar{\Box}(X)$, $\hat{\Box}(X)$, $[\cdot] (X)$, $c(X)$, $[X]$
+- $m_R (X)$, $\bar{\Diamond}(X)$, $\hat{\diamond}(X)$, $<\cdot>(X)$, $r(X)$, $< X >$
 
 
 
@@ -50,7 +50,7 @@ modal operations in algebra semantics:
 
 - derivation rules:  $\varphi \to \psi,\varphi \;\;/\;\; \psi$
 
-- $sub\ \varphi$: the set of subformulas of $\varphi$.
+- $sub \varphi$: the set of subformulas of $\varphi$.
 
 - $\mathsf{sf}(\varphi)$: the set of sub-formulas of $\varphi$
 

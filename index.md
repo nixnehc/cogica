@@ -22,6 +22,52 @@ title: Cogica
 ---
 
 
+
+
+
+--- 
+Coalgebra:
+
+- **universal algebra**, on the other hand, we may consider it as a rather special branch of model theory in which one is interested in structures for a language without relation symbols.
+
+- **coalgebra** can be conceived as a general and uniform theory of *dynamic systems*. 
+
+- coalgebras over the base category $C$ are dual to algebras over the opposite category $C^{op}$.
+
+- the link between modal logics and coalgebra is so tight, that one may even claim that *modal logic is the natural logic for coalgebras* — just like equational logic is that for algebra.
+
+- (Kripke) frames and models are in fact coalgebras in disguise.
+
+- The p-morphisms of Kripke models/frames are precisely the coalgebra morphisms.
+
+- modal logic is the logic of bisimulation. 
+
+- Universal Coalgebra is a theory of state-based evolving systems.
+
+---
+
+
+- *Tukey's Lemma* is equivalent to the Axiom of Choice [Kelley 1955, p.33]
+- The proof of *Konig's Lemma* does, however, use a weak form of the Axiom of Choice.
+
+
+- $\Box$ has some features of $\forall$ if one allows empty domain models. (模态词是可以论域为空的量词？)
+
+-  "modal logic is a logic of change" `[Fit.Men2023, p. x]`
+
+
+- This first decidability result for $FO^2$ was obtained by `Scott (1962)` [*A decision method for validity of sentences in two variables*], who showed that the decision problem for $FO^2$ can be reduced to that of the Godel class. Since, as mentioned above, only the Godel class without equality is decidable, Scott's reduction yields the decidability of $FO^$2 without equality, but does not cover the case of $FO^2$ with equality.    
+The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two variables*]. He proved that class is decidable by showing that it has the <u>finite model property</u>.
+
+
+
+- tableau --> plural: tableaux
+- branch 分枝 $\Theta$ , 父节点
+- 
+
+- 动态算子的表达力往往可以通过静态的混合逻辑来实现 [LiuFR-23, p.~160]
+
+
 - **Monte-Carlo simulation** has a long history, and has been applied to a variety of computationally difficult problems including inference in *Bayesian Networks*, *reinforcement learning*  and *computer game playing*.
 - 
 - on finite sets, `measures = distributions`.

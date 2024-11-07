@@ -6,7 +6,13 @@ title: Some Slogans
 
 ---
 
+
+
+
 - Bayes as lenses.
+
+
+- van Benthem：「逻辑是心智的免疫系统。」
 
 
 ## Formal Argumentation

@@ -4,9 +4,12 @@ title: logical symbols
 ## 符号收集者 
 
 
+- orz or2 失意体前屈
 
+- ///^_^
 
-
+- - `\coloneqq`: $\coloneqq$ 海象符 
+![coloneqq](../img/coloneqq.jpg)
 
 - $AF  \vrule\sim^c_\sigma a$ : credulously accepted
 - $AF  \vrule\sim^s_\sigma a$ : skeptically accepted

@@ -18,12 +18,24 @@ title: Cogica
 2. [Modal Logic for Open Mind](note/MLOpenMind)  
 3. [Papadimitriou_1994](note/Papadimitriou_1994)
 
-
 ---
 
 
 
+- 从计算的角度看，复杂度的降低意味着机器能够更快地“理解”它所对应的规范系统。
 
+- computing power equals power (算力即权力)
+
+
+- Diamonds Are Forever.
+
+
+- 「在文献中你会时不时地看到 $K\phi$ 算子，或者关于「$KK$命题」的讨论，但是这些符号也许只是激情过后的踪迹。因为毕竟许多形式的认识论者当初都是逻辑学家！Churchill 下面的断言正确吗？如果在 30 岁之前没有研究认知逻辑，说明你没脑子。但是如果过了 30 岁还在研究认知逻辑，说明你没心脏。 」（忘记是从哪本书里抄的了）
+
+
+- 纳什均衡就是 Brouwer's fixed point
+
+- Lemmas do the work in mathematics, Theorems, like management, just take the credit. (引理做了数学上的脏活累活，定理却像管理层一样，拿走了所有功劳)
 
 --- 
 Coalgebra:
@@ -56,7 +68,7 @@ Coalgebra:
 -  "modal logic is a logic of change" `[Fit.Men2023, p. x]`
 
 
-- This first decidability result for $FO^2$ was obtained by `Scott (1962)` [*A decision method for validity of sentences in two variables*], who showed that the decision problem for $FO^2$ can be reduced to that of the Godel class. Since, as mentioned above, only the Godel class without equality is decidable, Scott's reduction yields the decidability of $FO^$2 without equality, but does not cover the case of $FO^2$ with equality.    
+- **FO^2**: This first decidability result for $FO^2$ was obtained by `Scott (1962)` [*A decision method for validity of sentences in two variables*], who showed that the decision problem for $FO^2$ can be reduced to that of the Godel class. Since, as mentioned above, only the Godel class without equality is decidable, Scott's reduction yields the decidability of $FO^$2 without equality, but does not cover the case of $FO^2$ with equality.    
 The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two variables*]. He proved that class is decidable by showing that it has the <u>finite model property</u>.
 
 
@@ -78,6 +90,16 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
     - $\mathsf{NOM}$: a countable set of nominals different than PROP;
     -  $\{@_i \mid i \in NOM\}$:  a set of satisfaction operators indexed with nominals.
 
+
+
+- universal algebra 研究的对象是模型论的特例，它研究的是没有关系的一阶结构的等式理论的模型论。
+
+
+- 陶哲轩：「紧性约等于有穷性」
+
+
+
+- 计算机科学中只有两个难题：缓存失效和命名。There are only two things in cs: cache invalidation and naming things.
 
 
 
@@ -153,6 +175,9 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 - $FO^2_C$, the two-variable fragment of FOL with cunting quantifiers, is NEXPTime--complete.
 
 
+- 集合论笑话：These example suggest that an answer to the mathematician's riddle: "How is a set different from a door?" should be: "A door must be either open or closed, and cannot be both, while a set can be open, or closed or both, or either!"
+- 
+
 --- 
 「插值性」的证明方法大致有：
 1. purely syntactic
@@ -171,6 +196,8 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 ---
 ## 算是方法论吧
 
+- We must know. We wil know. (Wir mussen wissen. Wir werden wissen.)
+
 1. 证明过的东西就不用再证一遍了，说明下即可。
 
 2. 要学会淡化别人的证明，这个能力很重要。
@@ -184,10 +211,17 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 再换一套语言。假设有 A、B 两个集合，其中 B 中有 n 个元素。现在从集合 A 向 B 作映射 f，如果要保证一定会出现 f(a)=f(b)，问 A 的元素个数至少是多少个？答案还是 n+1。  
 从这个角度看，鸽笼原理以至于拉姆齐理论其实是在探讨这样的问题：如何从不确定性中取出确定性，或者说如何从混沌 chaos 中找到秩序 order。（摘自中科院物理所公众号19年的某篇推文）
 
+6. PhD: permanent head damage (永久性脑损伤)
+
+7. Yoneda Lemma: 人的本质是一切社会关系的总和。  (笑死😆)
+
+8. **Collection**: Mathematicians sometimes use the word "collection" to denote a bunch of "things" *without prejudice* as to whether those things form a set, a proper class, or some other formal notion of collection such as a type. For example, the word is often used this way in the definition of a category. (nLab)
 
 
 
 
+
+<!-- ====================================== -->
 ---
 ## Testing
 

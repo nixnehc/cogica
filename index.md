@@ -4,6 +4,8 @@ title: Cogica
 这里是一些临时性的笔记和乱七八糟的东西，
 它们真实性和正确性无法保证....
 
+
+- 🤖 [my toolkit](post/toolkit "我的工具包")
 - 🧐 [术语翻译](post/en-zh "信达雅") 
 - 🤩 [符号收集者](post/symbol) 
 - 🤪 [Gossip](post/gossip "一些学术八卦") 

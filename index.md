@@ -11,6 +11,8 @@ title: Cogica
 - 🤔 [Open Problems](post/open-problems) 
 - 🌲 [Acknowledgement & Dedication](post/ack.md) 
 
+
+
 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
 
 ## Some Notes
@@ -45,6 +47,8 @@ title: Cogica
 - 纳什均衡就是 Brouwer's fixed point
 
 - Lemmas do the work in mathematics, Theorems, like management, just take the credit. (引理做了数学上的脏活累活，定理却像管理层一样，拿走了所有功劳)
+
+
 
 --- 
 Coalgebra:

@@ -28,7 +28,7 @@ title: Cogica
 
 
 
-- 任意公开宣告逻辑 APAL 至今没有有穷的公理化，且不可判定。
+
 
 
 - The use of the term **belief revision** predates the AGM paper (1985).
@@ -37,7 +37,7 @@ title: Cogica
 
 - 从计算的角度看，复杂度的降低意味着机器能够更快地“理解”它所对应的规范系统。
 
-- computing power equals power (算力即权力)
+- 「computing power equals power」 (算力即权力)
 
 
 - Diamonds Are Forever.

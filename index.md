@@ -2,8 +2,8 @@
 title: Cogica
 ---
 这里是一些临时性的笔记和乱七八糟的东西，
-它们真实性和正确性无法保证....
-
+它们真实性和正确性无从保证...  
+呃，随他去吧...  
 
 - 🤖 [my toolkit](post/toolkit "我的工具包")
 - 🧐 [术语翻译](post/en-zh "信达雅") 
@@ -12,7 +12,6 @@ title: Cogica
 - 🥳 [Some Slogans](post/slogans) 
 - 🤔 [Open Problems](post/open-problems) 
 - 🌲 [Acknowledgement & Dedication](post/ack.md) 
-
 
 
 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
@@ -27,15 +26,16 @@ title: Cogica
 
 
 
+- *topoi* --singular--> *topos*
 
 
+- 2024：「逻辑是数学的物理学」（刘佶鑫在 NCML'24 教育环节上语）
 
 
 - The use of the term **belief revision** predates the AGM paper (1985).
 
 
-
-- 从计算的角度看，复杂度的降低意味着机器能够更快地“理解”它所对应的规范系统。
+- 从计算的角度看，复杂度的降低意味着机器能够更快地「理解」它所对应的规范系统。
 
 - 「computing power equals power」 (算力即权力)
 

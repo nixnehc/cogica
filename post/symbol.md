@@ -4,7 +4,7 @@ title: logical symbols
 ## 符号收集者 
 
 
-- orz or2 失意体前屈
+- orz or2 「失意体前屈」
 
 - ///^_^
 
@@ -67,6 +67,14 @@ modal operations in algebra semantics:
     - $ST_x(\varphi)[x \leftarrow w]$
     - $ST_x(\varphi)[x \mapsto w]$
 
-#### Languages: 
+
+
+
+## Languages
+
 - $\mathcal{ML}$: propositional modal language
+
 - $\mathcal{M}$: the basic (propositional) modal language
+
+- $\mathcal{M}_\Box$: 参数为 $\Box$ 的模态语言
+- $\mathcal{L}^1_\Box$: $\mathcal{M}_\Box$ 所对应的一阶模型语言。

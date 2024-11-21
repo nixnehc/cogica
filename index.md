@@ -14,13 +14,22 @@ title: Cogica
 - 🌲 [Acknowledgement & Dedication](post/ack.md) 
 
 
-🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
+ 🐕 🐈 🚙 🚌 🚲 🛵 👾 🤖 🤢 👏 💪 
 
 ## Some Notes
 
 1. [燃烧理性火焰](note/燃烧理性火焰)   
 2. [Modal Logic for Open Mind](note/MLOpenMind)  
 3. [Papadimitriou_1994](note/Papadimitriou_1994)
+
+
+Logica:
+    - Mogica: modal logic
+    - Cogica: classical
+    - Hogica: hybrid
+    - ogica:
+    - 
+
 
 ---
 
@@ -41,6 +50,12 @@ title: Cogica
 
 
 - Diamonds Are Forever.
+
+- Some extensions of Hybrid Logic:
+    - quantified hybrid logic (QHL) / first-order hybrid logic
+    - many-dimension hybrid logic ✔️
+    - Hybrid Logic with Propositional Quantifiers
+
 
 
 - 「在文献中你会时不时地看到 $K\phi$ 算子，或者关于「$KK$命题」的讨论，但是这些符号也许只是激情过后的踪迹。因为毕竟许多形式的认识论者当初都是逻辑学家！Churchill 下面的断言正确吗？如果在 30 岁之前没有研究认知逻辑，说明你没脑子。但是如果过了 30 岁还在研究认知逻辑，说明你没心脏。 」（忘记是从哪本书里抄的了）
@@ -117,7 +132,20 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 - 计算机科学中只有两个难题：缓存失效和命名。There are only two things in cs: cache invalidation and naming things.
 
 
+- How to prove **compactness** in PL/FOL:
+    - by completeness
+    - by Zorn's Lemma
+    - by Topology method
 
+- **Agreement Lemma** —> A standard corollary follows: the variable assignment is irrelevant when evaluating sentences.
+
+- 模态的有效性本质是一个*二阶概念*。 
+-  有穷框架类是一阶可定义的吗？--> NO! Via ultraproducts.
+
+- 模态度：模态算子的层数，而不是个数！
+- FOL 因为有「等词」的存在，便可以区分 bisimulation。
+
+- Blue-Book-Lemma 3.37 (p. 152) -> Proof: Simultaneously by induction on $\varphi$. (因为有否定 $\neg$ 存在)
 
 ---
 不可判定的模态逻辑 ~~>  可判定片段：

@@ -33,7 +33,9 @@ Logica:
 
 ---
 
+- 
 
+- 「all men are created equal」
 
 - *topoi* --singular--> *topos*
 
@@ -127,6 +129,7 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 
 - 陶哲轩：「紧性约等于有穷性」
 
+- 「紧致性是一阶逻辑的根本特性」
 
 
 - 计算机科学中只有两个难题：缓存失效和命名。There are only two things in cs: cache invalidation and naming things.
@@ -261,7 +264,7 @@ The full class $FO^2$ was considered by `Mortimer (1975)` [*On language with two
 8. **Collection**: Mathematicians sometimes use the word "collection" to denote a bunch of "things" *without prejudice* as to whether those things form a set, a proper class, or some other formal notion of collection such as a type. For example, the word is often used this way in the definition of a category. (nLab)
 
 
-
+9. 「人类迄今为止，只有两部文艺作品说透了人对自身局限性的焦虑，以及对这种焦虑的突破，一部是『马大帅』，一部是『浮士德』」--- 「真没想道，你对『浮士德』的评价如此之高」。---（😆）
 
 
 <!-- ====================================== -->

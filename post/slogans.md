@@ -7,6 +7,7 @@ title: Some Slogans
 ---
 
 
+- idea/talk is cheap, give me your code!
 
 
 - Bayes as lenses.

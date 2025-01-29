@@ -1,6 +1,7 @@
 ---
 title: Cogica
 ---
+
 这里是一些临时性的笔记和乱七八糟的东西，
 它们真实性和正确性无从保证...  
 呃，随他去吧...  
@@ -24,6 +25,7 @@ title: Cogica
 
 
 Logica:
+
     - Mogica: modal logic
     - Cogica: classical
     - Hogica: hybrid
@@ -31,9 +33,13 @@ Logica:
     - 
 
 
+EI、SCI、SSCI、A&HCI、CSSCI (南大核心)、CSCD (中国科学引文数据库)、CPCI (conference proceedings citation index) $\appro$ ISTP (Index to Scientific & Technical Proceedings)
+
 ---
 
 - 
+
+- CTL、CTL* 「时态逻辑是最成功的模态逻辑之一」
 
 - 「all men are created equal」
 

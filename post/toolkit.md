@@ -1,8 +1,9 @@
 ---
 title: toolkit
 --- 
-# My toolkit
+# toolkit
 
+---
 
 - Immersive Translate (浏览器翻译插件)
 
@@ -12,4 +13,15 @@ title: toolkit
 
 - [秘塔ai](https://metaso.cn/)  (智能搜索)
 
+- 
+
+---
+
+### vscode
+
+- `latex-workshop`: 
+- `folder-alias`: 给文件夹和文件添加备注
+- `image preview`: 侧边图片预览
+- `codesnap`: 代码截图分享
+- 
 - 

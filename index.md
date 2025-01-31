@@ -27,10 +27,7 @@ title: Cogica
 Logica:
 
     - Mogica: modal logic
-    - Cogica: classical
-    - Hogica: hybrid
-    - ogica:
-    - 
+    - Cogica: classical logic
 
 
 EI、SCI、SSCI、A&HCI、CSSCI (南大核心)、CSCD (中国科学引文数据库)、CPCI (conference proceedings citation index) $\appro$ ISTP (Index to Scientific & Technical Proceedings)
